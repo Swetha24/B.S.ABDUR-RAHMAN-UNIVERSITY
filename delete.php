@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Control Panel :: Student Information Panel:: Institute of Information Technology, BZU</title>
+<title>Control Panel :: Student Information Panel</title>
 <style type="text/css">
 <!--
 .heading {
@@ -50,7 +50,7 @@ while($result=mysql_fetch_array($resource))
       </p>
   <p align="center">&nbsp;</p>
       <p align="center"><a href="./"><img border="0" src="images/cooltext457951462.png" onmouseover="this.src='images/cooltext457951462MouseOver.png';" onmouseout="this.src='images/cooltext457951462.png';" /></a><a href="../"><img border="0" src="images/cooltext457951615.png" onmouseover="this.src='images/cooltext457951615MouseOver.png';" onmouseout="this.src='images/cooltext457951615.png';" /></a></p>
-      <p align="center"><a href="../about.php"><img border="0" src="images/ahmad.jpg" width="395" height="32" alt="Developed by Ahmad Mushtaq" /></a></p>
+      <p align="center"><a href="../about.php"><img border="0" src="images/ahmad.jpg" width="395" height="32" alt="Developed by swetha and tharshika" /></a></p>
     <p align="left">&nbsp;</p></td>
   </tr>
 </table>

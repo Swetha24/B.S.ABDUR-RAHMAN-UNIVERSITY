@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Control Panel :: Student Information Panel:: Institute of Information Technology, BZU</title>
+<title>Control Panel :: Student Information Panel</title>
 <style type="text/css">
 <!--
 .heading {
@@ -44,7 +44,7 @@
         </tr>
       </table>
       <p align="center"><a href="../about.php"><img src="images/cooltext457954859.png" alt="" border="0" onmouseover="this.src='images/cooltext457954859MouseOver.png';" onmouseout="this.src='images/cooltext457954859.png';" /></a><a href="../"><img border="0" src="images/cooltext457951462.png" alt="Go Back" onmouseover="this.src='images/cooltext457951462MouseOver.png';" onmouseout="this.src='images/cooltext457951462.png';" /></a><a href="http://www.ahmadmushtaq.com"><img src="images/cooltext457955210.png" alt="" border="0" onmouseover="this.src='images/cooltext457955210MouseOver.png';" onmouseout="this.src='images/cooltext457955210.png';" /></a></p>
-    <p align="center"><a href="../about.php"><img border="0" src="images/ahmad.jpg" width="395" height="32" alt="Developed by Ahmad Mushtaq" /></a></p></td>
+    <p align="center"><a href="../about.php"><img border="0" src="images/ahmad.jpg" width="395" height="32" alt="Developed by swetha and tharshika" /></a></p></td>
   </tr>
 </table>
 <h1 align="center" class="heading">&nbsp;</h1>

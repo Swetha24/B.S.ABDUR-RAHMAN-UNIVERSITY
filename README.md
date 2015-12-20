@@ -11,7 +11,7 @@ N.THARSHIKA
 120071601116
 
 
-ONLINE PASSPORT REGISTRATION 
+STUDENT INFORMATION SYSTEM 
 
 1. The Student  Information System(SIS) is the software which manages student’s information in the form of database records. Many educational institutes use this type of software to manage the vast information  of their previous and current students.
 2. The website is designed using php and mysql.  Here in  SIS  there will be a Admin CP in which we can insert ,delete and modify the detail of the students and we can display it in the home page .
